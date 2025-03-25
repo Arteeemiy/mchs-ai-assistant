@@ -1,6 +1,0 @@
-README.md
-setup.py
-mchs_ai_assistant.egg-info/PKG-INFO
-mchs_ai_assistant.egg-info/SOURCES.txt
-mchs_ai_assistant.egg-info/dependency_links.txt
-mchs_ai_assistant.egg-info/top_level.txt
