@@ -1,0 +1,17 @@
+# Data
+faiss_index/*
+documents/*.json
+
+# Virtual Environment
+venv/
+
+# IDE
+__pycache__/
+venv/
+*.pyc
+*.pyo
+.env
+.DS_Store
+
+# Secrets
+.env
